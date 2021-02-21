@@ -1,4 +1,4 @@
-package in.vivek.bookstoreservice.config;
+package in.vivek.bookshoppingservice.config;
 
 import javax.persistence.EntityManager;
 import javax.persistence.metamodel.Type;
@@ -8,9 +8,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;
 
-
-import in.vivek.bookstoreservice.entity.Book;
-import in.vivek.bookstoreservice.entity.BookCategory;
+import in.vivek.bookshoppingservice.entity.Book;
+import in.vivek.bookshoppingservice.entity.BookCategory;
 
 @Configuration
 public class RepositoryConfig implements RepositoryRestConfigurer{

@@ -1,4 +1,4 @@
-package in.vivek.bookstoreservice.entity;
+package in.vivek.bookshoppingservice.entity;
 
 import java.math.BigDecimal;
 import java.util.Date;

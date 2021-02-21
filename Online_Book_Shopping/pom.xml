@@ -8,11 +8,11 @@
 		<version>2.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>tiwari.vivekkumar</groupId>
-	<artifactId>Book_Store_Service</artifactId>
+	<groupId>vivekkumar333</groupId>
+	<artifactId>online_book_shopping_service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Book_Store_Service</name>
-	<description>REST API written for providing Online book store services</description>
+	<name>online_book_shopping_service</name>
+	<description>REST API written for providing online book shopping services</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
