@@ -40,3 +40,40 @@ hs_err_pid*
 
 /Online_Book_Shopping/HELP.md
 /Online_Book_Shopping/.gitignore
+
+# See http://help.github.com/ignore-files/ for more about ignoring files for Angular.
+# compiled output  
+angular-online-book-shopping/dist  
+angular-online-book-shopping/tmp  
+angular-online-book-shopping/out-tsc  
+
+# Only exists if Bazel was run
+angular-online-book-shopping/bazel-out
+  
+# dependencies  
+angular-online-book-shopping/node_modules  
+  
+# IDE - VSCode  
+angular-online-book-shopping/.vscode/*  
+angular-online-book-shopping/!.vscode/settings.json  
+angular-online-book-shopping/!.vscode/tasks.json  
+angular-online-book-shopping/!.vscode/launch.json  
+angular-online-book-shopping/!.vscode/extensions.json  
+  
+# misc  
+angular-online-book-shopping/.sass-cache  
+angular-online-book-shopping/connect.lock  
+angular-online-book-shopping/coverage  
+angular-online-book-shopping/libpeerconnection.log  
+angular-online-book-shopping/npm-debug.log  
+angular-online-book-shopping/yarn-error.log  
+angular-online-book-shopping/testem.log  
+angular-online-book-shopping/typings  
+
+# e2e
+angular-online-book-shopping/e2e/*.js
+angular-online-book-shopping/e2e/*.map
+  
+# System Files  
+angular-online-book-shopping/.DS_Store  
+angular-online-book-shopping/Thumbs.db  
