@@ -21,3 +21,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+### Project Specific files ###
+/Online_Book_Shopping/HELP.md
+/Online_Book_Shopping/target/
+/Online_Book_Shopping/!.mvn/wrapper/maven-wrapper.jar
+/Online_Book_Shopping/!**/src/main/**/target/
+/Online_Book_Shopping/!**/src/test/**/target/
+
+### STS ###
+/Online_Book_Shopping/.apt_generated
+/Online_Book_Shopping/.classpath
+/Online_Book_Shopping/.factorypath
+/Online_Book_Shopping/.project
+/Online_Book_Shopping/.settings
+/Online_Book_Shopping/.springBeans
+/Online_Book_Shopping/.sts4-cache
