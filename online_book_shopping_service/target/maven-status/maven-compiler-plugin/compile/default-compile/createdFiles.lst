@@ -1,0 +1,6 @@
+in\vivek\bookshoppingservice\entity\BookCategory.class
+in\vivek\bookshoppingservice\entity\Book.class
+in\vivek\bookshoppingservice\repo\BookCategoryRepository.class
+in\vivek\bookshoppingservice\BookStoreServiceApplication.class
+in\vivek\bookshoppingservice\config\RepositoryConfig.class
+in\vivek\bookshoppingservice\repo\BookRepository.class
