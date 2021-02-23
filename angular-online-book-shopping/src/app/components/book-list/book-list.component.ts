@@ -20,7 +20,7 @@ export class BookListComponent implements OnInit {
   listBooks(){
     this._bookService.getBooks().subscribe(
       data =>{
-        console.log(data);
+        this.books = data;
       }
     )
   }
